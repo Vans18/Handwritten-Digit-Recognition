@@ -1,0 +1,12 @@
+Python Packages Required:
+-keras
+-matplotlib
+-mnist(from keras.datasets)
+-tkinter
+-win32gui
+-os
+-cv2
+-numpy
+
+Data set used: Mnist dataset by keras
+
